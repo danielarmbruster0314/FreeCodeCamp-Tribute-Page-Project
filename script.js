@@ -1,0 +1,1 @@
+const tributePage='tribute-page';
